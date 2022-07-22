@@ -7,8 +7,12 @@
         "id": "712d42651ae438e7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AJAX 如何運作.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -59,6 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AJAX 如何運作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,6 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AJAX 如何運作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AJAX 如何運作.md"
+              }
             }
           },
           {
@@ -120,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javascripss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,10 +141,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 163.9999542236328
+    "width": 100
   },
   "active": "712d42651ae438e7",
   "lastOpenFiles": [
+    "Sum of the first nth term of Series.md",
     "Array.prototype.reduce().md",
     "Number.prototype.toFixed().md",
     "Array.prototype.filter().md",
@@ -145,7 +154,6 @@
     "Difference between ‘function declaration’ and ‘function expression’ in JavaScript.md",
     "function.md",
     "Untitled 1.md",
-    "FrontEnd/JS/Callback function 寫法.md",
-    "FrontEnd/JS/Callback function 用途＆定義.md"
+    "FrontEnd/JS/Callback function 寫法.md"
   ]
 }

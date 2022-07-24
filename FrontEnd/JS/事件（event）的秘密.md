@@ -1,4 +1,15 @@
-*標籤*  [[js]] [[event]] [[function]] [[object]]
+---
+date: 2022-07-24 
+aliases(別名): []
+tags: JS
+---
+# Metadata
+status ::<br>
+Note Type ::<br>
+Topics :: {}
+(使用`[Topic],[Topic]`格式)
+#JS
+*反向連結*  [[js]] [[event]] [[function]] [[object]]
 
 ```
 <button id='btn'>Click</button>

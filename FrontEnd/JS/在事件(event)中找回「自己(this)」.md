@@ -1,3 +1,7 @@
+---
+tags: JS
+---
+#JS 
 # 在event中找回this
 *標籤*： [[js]] [[this]]  [[EventHandler]]  [[冒泡]]
 <br/>

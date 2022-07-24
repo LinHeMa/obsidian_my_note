@@ -1,4 +1,14 @@
-[[js]][[array]][[algorithm]][[math]]
+---
+date: 2022-07-24
+aliases(別名): []
+tags: JS
+---
+# Metadata
+status :: first<br>
+Note Type :: <br>
+Topics :: {}
+(使用`[Topic],[Topic]`格式)[[js]][[array]][[algorithm]][[math]]
+#JS
 ## Task:
 
 Your task is to write a function which returns the sum of following series upto nth term(parameter).

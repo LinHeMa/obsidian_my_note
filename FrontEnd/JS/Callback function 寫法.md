@@ -1,4 +1,13 @@
-[[callback function]][[js]][[function]]
+---
+date: 2022-07-24
+aliases(別名): []
+tags: JS
+---
+# Metadata
+status ::<br>
+Note Type ::<br>
+Topics :: {}
+(使用`[Topic],[Topic]`格式)[[callback function]][[js]][[function]]
 ## callback function 寫法
 - 匿名函式
 	```

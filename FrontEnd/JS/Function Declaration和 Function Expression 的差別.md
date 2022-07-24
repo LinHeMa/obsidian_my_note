@@ -1,4 +1,13 @@
-[[js]][[function]][[hoisting]][[algorithm]]
+---
+date: 2022-07-24
+aliases(別名): []
+tags: JS
+---
+# Metadata
+status ::<br>
+Note Type ::<br>
+Topics :: {}
+(使用`[Topic],[Topic]`格式)[[js]][[function]][[hoisting]][[algorithm]]
 ## **Function Declaration**
 - 使用function去宣告一個function，所以一定會有名字
 - Function declaration不需要變數賦值

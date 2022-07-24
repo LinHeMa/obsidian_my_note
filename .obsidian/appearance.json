@@ -1,6 +1,6 @@
 {
   "translucency": true,
-  "cssTheme": "",
+  "cssTheme": "Dracula for Obsidian",
   "enabledCssSnippets": [
     "notation-colour-blocks"
   ],

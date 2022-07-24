@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "712d42651ae438e7",
+        "id": "bf41b055d4ae8fbd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AJAX 如何運作.md",
-            "mode": "source",
+            "file": "FrontEnd/JS/Array.prototype.filter().md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308,
-    "collapsed": true
+    "width": 306
   },
   "right": {
     "id": "ea1d4d0d484921e2",
@@ -63,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAX 如何運作.md",
+                "file": "FrontEnd/JS/Array.prototype.filter().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAX 如何運作.md",
+                "file": "FrontEnd/JS/Array.prototype.filter().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJAX 如何運作.md"
+                "file": "FrontEnd/JS/Array.prototype.filter().md"
               }
             }
           },
@@ -116,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "cbe0369b092965c2",
@@ -143,17 +142,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "712d42651ae438e7",
+  "active": "7adb0bb904d2114b",
   "lastOpenFiles": [
-    "Sum of the first nth term of Series.md",
-    "Array.prototype.reduce().md",
-    "Number.prototype.toFixed().md",
-    "Array.prototype.filter().md",
+    "FrontEnd/JS/AJAX 如何運作.md",
+    "FrontEnd/JS/在事件(event)中找回「自己(this)」.md",
+    "FrontEnd/JS/事件（event）的秘密.md",
     "js.md",
-    "array.prototupe.forEach().md",
-    "Difference between ‘function declaration’ and ‘function expression’ in JavaScript.md",
-    "function.md",
-    "Untitled 1.md",
-    "FrontEnd/JS/Callback function 寫法.md"
+    "Untitled.md",
+    "templates/Template--網路課程.md",
+    "FrontEnd/JS/Untitled 2.md",
+    "FrontEnd/JS/Sum of the first nth term of Series.md",
+    "FrontEnd/JS/Number.prototype.toFixed().md",
+    "FrontEnd/JS/Function Declaration和 Function Expression 的差別.md"
   ]
 }

@@ -1,4 +1,13 @@
-[[js]][[array]][[number]]
+---
+date: 2022-07-24
+aliases(別名): []
+tags: JS
+---
+# Metadata
+status ::<br>
+Note Type ::<br>
+Topics :: {}
+(使用`[Topic],[Topic]`格式)[[js]][[array]][[number]]
 
 ## [語法](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#syntax "Permalink to Syntax")
 

@@ -1,7 +1,12 @@
 ---
-tags: JS
+date: 2022-07-25
+title: 实际文件名，因为我的文件名可能会是数字串
+aliases: []
+tags:
+  - JS
+category: method
+from: MDN
 ---
-#JS 
 # 在event中找回this
 *標籤*： [[js]] [[this]]  [[EventHandler]]  [[冒泡]]
 <br/>
@@ -14,3 +19,4 @@ tags: JS
 `e.target`是input
 `e.currentTarget`是觸發事件的目標，也就是接到泡泡的label
 所以 this = INPUT = `e.currentTarget`  
+

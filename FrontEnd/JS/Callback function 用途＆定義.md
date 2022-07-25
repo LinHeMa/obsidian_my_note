@@ -1,15 +1,16 @@
 ---
-date: 2022-07-24
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: Callback function 用途＆定義
+aliases: []
+tags:
+  - callbackFunction
+  - def
+category: function
+from: 
 ---
-# Metadata
-status ::<br>
-Note Type ::<br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)[[js]][[function]] [[callback function]] 
+[[js]][[function]] [[callback function]] 
 ## 定義
- >一個可以當作paramete的函數
+ >一個可以當作parameter的函數
 ---
 ## 用途  
 - 一次性或可重複的計時器

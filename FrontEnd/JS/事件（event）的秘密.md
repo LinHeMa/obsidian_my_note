@@ -1,7 +1,11 @@
 ---
-date: 2022-07-24 
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: 事件的秘密
+aliases: []
+tags:
+  - JS
+category: method
+from: MDN
 ---
 # Metadata
 status ::<br>
@@ -11,7 +15,7 @@ Topics :: {}
 #JS
 *反向連結*  [[js]] [[event]] [[function]] [[object]]
 
-```
+```js
 <button id='btn'>Click</button>
 
 let btn = document.getElementById('btn')

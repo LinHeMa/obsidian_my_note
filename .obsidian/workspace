@@ -4,16 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "bf41b055d4ae8fbd",
+        "id": "64c4668baf4c3e9d",
         "type": "leaf",
+        "dimension": 34.5823575331772,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FrontEnd/JS/Array.prototype.filter().md",
-            "mode": "preview",
+            "file": "js.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "a0dd477f2e859ff7"
+      },
+      {
+        "id": "68b006f5f869d49b",
+        "type": "leaf",
+        "dimension": 65.41764246682278,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "js.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.4210600308144252,
+              "close": false
+            }
+          }
+        },
+        "group": "a0dd477f2e859ff7"
       }
     ],
     "direction": "vertical"
@@ -46,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "ea1d4d0d484921e2",
@@ -62,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/JS/Array.prototype.filter().md",
+                "file": "js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/JS/Array.prototype.filter().md",
+                "file": "js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/JS/Array.prototype.filter().md"
+                "file": "js.md"
               }
             }
           },
@@ -115,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "cbe0369b092965c2",
@@ -127,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,17 +182,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "7adb0bb904d2114b",
+  "active": "64c4668baf4c3e9d",
   "lastOpenFiles": [
-    "FrontEnd/JS/AJAX 如何運作.md",
-    "FrontEnd/JS/在事件(event)中找回「自己(this)」.md",
-    "FrontEnd/JS/事件（event）的秘密.md",
-    "js.md",
-    "Untitled.md",
-    "templates/Template--網路課程.md",
-    "FrontEnd/JS/Untitled 2.md",
-    "FrontEnd/JS/Sum of the first nth term of Series.md",
+    "FrontEnd/JS/Sum of the first Nth term of Series.md",
     "FrontEnd/JS/Number.prototype.toFixed().md",
-    "FrontEnd/JS/Function Declaration和 Function Expression 的差別.md"
+    "FrontEnd/JS/Function Declaration和 Function Expression 的差別.md",
+    "FrontEnd/JS/Callback function 寫法.md",
+    "FrontEnd/JS/Callback function 用途＆定義.md",
+    "FrontEnd/JS/Array.prototype.reduce().md",
+    "FrontEnd/JS/array.prototype.forEach().md",
+    "js.md",
+    "FrontEnd/JS/AJAX 如何運作.md",
+    "FrontEnd/JS/事件（event）的秘密.md"
   ]
 }

@@ -1,10 +1,9 @@
 ---
 date: {{date}}
-aliases(別名): []
-tags: []
+title: 实际文件名，因为我的文件名可能会是数字串
+aliases: [AI, Artificial Intelligence]
+tags:
+  - 标签1
+category: 类别
+from: 基于什么，来自什么
 ---
-# Metadata
-status ::<br>
-NoteType ::<br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)

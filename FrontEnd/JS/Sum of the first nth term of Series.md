@@ -1,13 +1,14 @@
 ---
-date: 2022-07-24
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: Sum of the first Nth term of Series
+aliases: []
+tags:
+  - sum
+  - algorithm
+category: problem
+from: 
 ---
-# Metadata
-status :: first<br>
-Note Type :: <br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)[[js]][[array]][[algorithm]][[math]]
+[[js]][[array]][[algorithm]][[math]]
 #JS
 ## Task:
 
@@ -37,9 +38,9 @@ Series: 1 + 1/4 + 1/7 + 1/10 + 1/13 + 1/16 +...
 ---
 ## ANS
 
-```
+```js
 function SeriesSum(n) {
-  for (var s = 0, i = 0; i < n; i++) {
+  for (let s = 0, i = 0; i < n; i++) {
     s += 1 / (1 + i * 3)
   }
   

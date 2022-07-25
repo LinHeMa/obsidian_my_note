@@ -1,4 +1,7 @@
 [
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-outliner",
+  "cm-editor-syntax-highlight-obsidian"
 ]

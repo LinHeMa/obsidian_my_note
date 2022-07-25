@@ -1,27 +1,27 @@
 ---
-date: 2022-07-24
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: Callback function 寫法
+aliases: []
+tags:
+  - callbackFunction
+category: function
+from: 
 ---
-# Metadata
-status ::<br>
-Note Type ::<br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)[[callback function]][[js]][[function]]
+[[callback function]][[js]][[function]]
 ## callback function 寫法
 - 匿名函式
-	```
+	```js
 	setTimeout(function(){
 		alert("hello!");
 	},1000)
 	```
 - 箭頭函式
 
-	```
+	```js
 	setTimeout(()=> alert("hello!") ,1000)
 	```
 #### 有arguments 的callback fn
-```
+```js
 const nameInput = document.getElementById('name');
 const messageTextArea = document.getElementById('message');
 

@@ -1,17 +1,19 @@
 ---
-date: 2022-07-24
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: Number.prototype.toFixed()
+aliases: []
+tags:
+  - number
+  - toFixed
+  - decimal
+category: number
+from: 
 ---
-# Metadata
-status ::<br>
-Note Type ::<br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)[[js]] [[number]] [[math]] [[array]]
+[[js]] [[number]] [[math]] [[array]]
 ---
 ## [語法](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#syntax "Permalink to Syntax")
 
-```
+```js
 toFixed()
 toFixed(digits)
 ```
@@ -40,7 +42,7 @@ If this method is invoked on an object that is not a [`Number`](https://develop
 
 ### [例子](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed#using_tofixed "Permalink to Using toFixed")
 
-```
+```js
 let numObj = 12345.6789
 
 numObj.toFixed()       // Returns '12346': rounding, no fractional part

@@ -1,17 +1,19 @@
 ---
-date: 2022-07-24
-aliases(別名): []
-tags: JS
+date: 2022-07-25
+title: Array.prototype.reduce()
+aliases: []
+tags:
+  - array
+  - prototype
+category: array
+from: 
 ---
-# Metadata
-status ::<br>
-Note Type ::<br>
-Topics :: {}
-(使用`[Topic],[Topic]`格式)[[js]][[array]][[number]]
+
+[[js]][[array]][[number]]
 
 ## [語法](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce#syntax "Permalink to Syntax")
 
-```
+```js
 // Arrow function
 reduce((previousValue, currentValue) => { /* ... */ } )
 reduce((previousValue, currentValue, currentIndex) => { /* ... */ } )

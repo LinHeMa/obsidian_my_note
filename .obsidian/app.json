@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "FrontEnd"
 }

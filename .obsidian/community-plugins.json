@@ -3,5 +3,8 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-outliner",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-mind-map"
 ]

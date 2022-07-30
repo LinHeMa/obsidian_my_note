@@ -4,55 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "64c4668baf4c3e9d",
+        "id": "952a03d683cc73bb",
         "type": "leaf",
-        "dimension": 34.58235753317721,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "js.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "a0dd477f2e859ff7"
-      },
-      {
-        "id": "68b006f5f869d49b",
-        "type": "leaf",
-        "dimension": 65.41764246682278,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "js.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.4210600308144252,
-              "close": false
-            }
-          }
-        },
-        "group": "a0dd477f2e859ff7"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +42,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
+    "width": 176,
     "collapsed": true
   },
   "right": {
@@ -95,6 +52,7 @@
       {
         "id": "b5e79399e8be4ad9",
         "type": "tabs",
+        "dimension": 77.01149425287356,
         "children": [
           {
             "id": "625db1c5dd827149",
@@ -102,14 +60,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -119,9 +76,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -141,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "js.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,6 +107,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9b354c71b94b8796",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -160,6 +122,7 @@
       {
         "id": "cbe0369b092965c2",
         "type": "tabs",
+        "dimension": 22.98850574712644,
         "children": [
           {
             "id": "a28640fed5b21ec0",
@@ -168,9 +131,9 @@
               "type": "search",
               "state": {
                 "query": "tag:#array",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -180,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 285.5
   },
-  "active": "64c4668baf4c3e9d",
+  "active": "952a03d683cc73bb",
   "lastOpenFiles": [
-    "FrontEnd/JS/Sum of the first Nth term of Series.md",
-    "FrontEnd/JS/Number.prototype.toFixed().md",
-    "FrontEnd/JS/Function Declaration和 Function Expression 的差別.md",
-    "FrontEnd/JS/Callback function 寫法.md",
-    "FrontEnd/JS/Callback function 用途＆定義.md",
-    "FrontEnd/JS/Array.prototype.reduce().md",
-    "FrontEnd/JS/array.prototype.forEach().md",
-    "js.md",
-    "FrontEnd/JS/AJAX 如何運作.md",
-    "FrontEnd/JS/事件（event）的秘密.md"
+    "FrontEnd/Convert number to reversed array of digits.md",
+    "array.md",
+    "2022-07-27 recap.md",
+    "FrontEnd/Recap.md",
+    "2022-07-28.md",
+    "css.md",
+    "em & rem.md",
+    "flex-direction.md",
+    "Untitled 2.md",
+    "flex_container.md"
   ]
 }

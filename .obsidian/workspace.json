@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e0115ede31b27ce4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FrontEnd/Reacp.md",
-            "mode": "source",
-            "source": false
+        "id": "434d70b1c8f13730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc32c64c13795d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        },
-        "group": "b45bfe8cbe0517c6"
-      },
-      {
-        "id": "2c289538b67416b7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FrontEnd/Reacp.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "b45bfe8cbe0517c6"
+        ]
       }
     ],
     "direction": "vertical"
@@ -45,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -60,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.99999809265137,
+    "width": 302.5,
     "collapsed": true
   },
   "right": {
@@ -78,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Reacp.md",
+                "file": "FrontEnd/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Reacp.md",
+                "file": "FrontEnd/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Reacp.md"
+                "file": "FrontEnd/Untitled 2.md"
               }
             }
           },
@@ -137,6 +131,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "8c460d20bb31522b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -152,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#afterDemo",
+                "query": "ssr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,20 +167,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50006103515625,
-    "collapsed": true
+    "width": 225.50006103515625
   },
-  "active": "e0115ede31b27ce4",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6dc32c64c13795d3",
   "lastOpenFiles": [
-    "FrontEnd/Comment.md",
-    "FrontEnd/Github_issue_clone_Title.md",
-    "FrontEnd/github_issue_clone_sprint_4.md",
-    "FrontEnd/2022-10-11.md",
-    "Daily/spring3.md",
-    "2022-08-01.md",
-    "2022-08-04.md",
-    "github_issue_clone_sprint_3.md",
-    "FrontEnd/比較Nodelist與HTML collection的差異.md",
-    "FrontEnd/淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂.md"
+    "FrontEnd/SEO.md",
+    "FrontEnd/CSR,SSR,SSG(Pre-rendering).md",
+    "templates/Cloze Obsidain to Anki Template.md",
+    "templates/Basic Obsidian to Anki Template.md",
+    "FrontEnd/test ob to anki.md",
+    "templates/table.md",
+    "templates/Template--metadata.md",
+    "FrontEnd/Array.push Return Value.md",
+    "FrontEnd/useState VS useRef.md",
+    "FrontEnd/What is JSX.md"
   ]
 }

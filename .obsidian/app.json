@@ -4,5 +4,8 @@
   "strictLineBreaks": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "FrontEnd"
+  "newFileFolderPath": "FrontEnd",
+  "communityThemeSortOrder": "download",
+  "trashOption": "system",
+  "vimMode": true
 }

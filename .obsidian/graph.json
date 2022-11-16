@@ -1,13 +1,13 @@
 {
   "collapse-filter": false,
-  "search": "js",
+  "search": "ssr",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.9,
   "nodeSizeMultiplier": 3.18016826923077,
@@ -17,6 +17,6 @@
   "repelStrength": 12.9059829059829,
   "linkStrength": 0.632879273504274,
   "linkDistance": 384,
-  "scale": 0.764237090982352,
+  "scale": 0.41369103199139734,
   "close": false
 }

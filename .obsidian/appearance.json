@@ -1,8 +1,12 @@
 {
   "translucency": true,
-  "cssTheme": "Atom",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "notation-colour-blocks"
   ],
-  "baseFontSize": 22
+  "baseFontSize": 16,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": ""
 }
